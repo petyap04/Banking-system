@@ -2,11 +2,17 @@ Banking System
 A comprehensive system designed to manage fundamental banking functionalities. This project supports three main user types: Clients, Bank Employees, and External Company Employees, each with a unique set of operations and commands.
 
 Table of Contents
+
 •Features
+
 •User Types and Commands
+
    •Client
+   
    •Bank Employee
+   
    •Third Party Employee
+   
 •Common Commands
 System Requirements
 Features
