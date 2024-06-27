@@ -7,11 +7,11 @@ Table of Contents
 
 •User Types 
 
-   -Client
+   *Client
    
-   -Bank Employee
+   *Bank Employee
    
-   -Third Party Employee
+   *Third Party Employee
    
 •Common Commands
 
